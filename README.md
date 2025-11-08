@@ -37,9 +37,9 @@ The tool displays categorized activity:
 
 - Node.js 18+ (for native fetch API support)
 
-## Inspiration
+## Project Inspiration
 
-Built as part of backend development practice 🚀 [Learn More](https://roadmap.sh/projects/github-user-activity)
+Backend development practice [🚀](https://roadmap.sh/projects/github-user-activity)
 
 ---
 
